@@ -199,6 +199,4 @@ These metrics are automatically generated and saved in the training report.
 
 ---
 
-## Author
-
 Developed as a Machine Learning project using Python, Scikit-learn, and Streamlit.
