@@ -74,6 +74,10 @@ Sales_Prediction/
 
 ---
 
+Live Demo : https://sales-prediction-advertising-budget-8xluhib9sy9byvvwnjlx3q.streamlit.app/
+
+---
+
 ## Installation
 
 ### 1. Clone the Repository
